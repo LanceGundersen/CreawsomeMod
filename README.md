@@ -30,6 +30,9 @@ It is really important that you use the material profiles capabilities to duplic
 ## Known Issues
 First of all, please check the [Issues](https://github.com/trouch/CreawsomeMod/issues) tab for open and closed issue. There aren't that much for now, you should easily figure out your situation. Bellow is a recap of most experienced issues and answer/solutions.
 
+### macOS Catalina and Mojave Installation
+You must open Cura at least once before attempting to replace the resources file otherwise you will get a damaged package warning.
+
 ### Z-Seam
 Probably the most challenging issue with FDM. Per default, CreasomeMod sets the Z-seam at the back of the model. This gives amazing overall looking and accuracy, but it may brings a non esthetic line on curved models. That's CreawsomeMod's Achilles' heel.
 
